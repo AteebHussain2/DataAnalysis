@@ -19,10 +19,16 @@ This repository contains a collection of data analysis projects that I have work
     * **Download csv file:** Click on the link to download zomato sales data: `https://drive.google.com/file/d/1x9daxqelIFZG1l2fZCe7GiRGQVHOIMK9/view?usp=sharing`
 
 * **Project 3: Analyzing Insurance Data**
-    * **Description:** This project aims to analyze insurance dat.
+    * **Description:** This project aims to analyze insurance daat.
     * **Data:** Insurance Data from a insurance company.
     * **Methods:** Feature selection, EDA, sentiment analysis.
     * **Results:** Performed feature selection and sentiment analysis on insurance data.
+
+* **Project 4: Analyzing Audible Data**
+    * **Description:** This project aims to analyze audible data to identify factors to increase user engagement.
+    * **Data:** Audible Data from a audiobook company.
+    * **Methods:** Feature selection, EDA, sentiment analysis.
+    * **Results:** Performed feature selection and sentiment analysis on audible data
 
 ## Getting Started
 
